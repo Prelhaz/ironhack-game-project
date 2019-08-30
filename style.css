@@ -1,0 +1,18 @@
+
+html,
+body {
+  overflow: hidden;
+  height: 100%;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  background: radial-gradient(#b9d7d9,#95c2c5);
+}
+
+canvas {
+  background: radial-gradient(#b9d7d9,#95c2c5);
+}
